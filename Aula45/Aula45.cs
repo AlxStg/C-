@@ -20,12 +20,7 @@ class Aula44{
             Console.WriteLine("CARRO {0}", contador);
             carro.info();
             contador+=1;
-            
         }
-        
-
-
-
     }
 }
 
